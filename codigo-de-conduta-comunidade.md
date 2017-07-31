@@ -1,8 +1,8 @@
-## Codigo de Conduta da Comunidade de desenvolvedores PHP do estado de São Paulo
+## Codigo de Conduta da Comunidade PHPWomen BR 
 
 ### Versão curta
 
-> O **PHPSP** está comprometido a ser uma comunidade livre de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião.
+> A **PHPWomen BR** está comprometido a ser uma comunidade livre de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião.
 > Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos e canais organizados pela comunidade.
 > Linguagem e/ou exposição de imagens sexuais ou de cunho discriminatório não serão apropriadas no âmbito de nossa comunidade - isto inclui os eventos, as palestras, apresentações, exemplos ou demonstrações, site, emails, chat e quaisquer outro canal da comunidade.
 > Os participantes que violarem estas regras podem ser repreendidos ou expulsos do canal e/ou evento sem direito a reembolso, a critério da organização.
@@ -17,11 +17,11 @@
 > * interrupção continuada e intencional de palestras e/ou eventos paralelos;
 > * contato físico inapropriado; atenção sexual não solicitada;
 
-> Nosso código de conduta pode ser encontrado na íntegra em [https://github.com/PHPSP/docs/blob/master/codigo-de-conduta.md].
+> Nosso código de conduta pode ser encontrado na íntegra em [https://github.com/phpwomenbr/docs/blob/master/codigo-de-conduta.md].
 
 ### Versão Longa
 
-O **PHPSP** está comprometido a ser uma comunidade livre de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião.
+A **PHPWomen BR** está comprometido a ser uma comunidade livre de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião.
 Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos e canais organizados pela comunidade.
 Linguagem e/ou exposição de imagens sexuais ou de cunho discriminatório não serão apropriadas no âmbito de nossos eventos - isto inclui as palestras, apresentações, exemplos ou demonstrações.
 Os participantes que violarem estas regras podem ser repreendidos, suspensos ou até mesmo expulsos e impedidos de particparem dos canais oficiais da comunidade e seus eventos.
@@ -43,18 +43,18 @@ Representantes de mantenedores, patrocinadores, parceiros, fornecedores e quaisq
 Se um participante apresentar comportamento constrangedor, os organizadores do canal podem tomar quaisquer ações a seu critério, incluindo uma advertência verbal ou mesmo a expulsão do agressor, sem reembolso do valor pago para participar se aplicável.
 
 Se você estiver sendo assediado(a) ou se sentir constrangido(a), ou perceber alguém nesta condição, ou se tiver qualquer preocupação a respeito deste tema, não deixe de contatar um dos evangelistas da comunidade imediatamente. 
-As pessoas responsáveis pela organização em eventos serão apresentadas ao início dos eventos e podem ser facilmente identificados por camisetas e/ou crachás. Nos canais oficiais da comunidade procure um dos evangelistas da comunidade [http://phpsp.org.br/quem-e-a-comunidade/].
+As pessoas responsáveis pela organização em eventos serão apresentadas ao início dos eventos e podem ser facilmente identificados por camisetas e/ou crachás. Nos canais oficiais da comunidade procure um dos evangelistas da comunidade.
 
 Embora o desejo seja de que isso não venha a ser necessário, caso seja preciso a organização ajudará os participantes no contato com a segurança do local ou com a polícia ou mesmo providenciando escolta. 
 Faremos o possível para que todos sintam-se confortáveis e seguros.
 
 Contamos com sua compreensão e participação.
 
-* Contato do **PHPSP**: contato@phpsp.org.br
+* Contato da **PHPWomen BR**: contato@phpwomen.org.br
 * Polícia: 190
 * Central de Atendimento à Mulher: 180
 * SAMU: 192
 
-Esperamos que todos os participantes sigam estas recomendações em todos os locais onde o **PHPSP** estiver.
+Esperamos que todos os participantes sigam estas recomendações em todos os locais onde a **PHPWomen BR** estiver.
 
 Aproveitem saudavelmente a comunidade!
